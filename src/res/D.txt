@@ -1,0 +1,55 @@
+Da locum melioribus!
+Уступи место лучшим!$Damnant quod non intelligunt.
+Осуждают то, чего не понимают.$Dant gaudea vires.
+Радость прибавляет силы.$De auditu.
+По слухам.$De caelo in caenum.
+С неба в грязь.$De duobus malis minus est semper eligendum.
+Из двух зол выбирай меньшее.$De gustibus non est disputandum.
+О вкусах не спорят.$De lingua stulta veniunt incommoda multa.
+Глупый язык доставляет много неприятностей.$De mortuis aut bene, aut nihil.
+О мертвых или молчи, или говори хорошее.$De mortuis et absentibus nihil nisi bene.
+О мертвых или отсутствующих ничего, кроме хорошего.$De nocte consilium.
+Ночь приносит совет.$De principiis non est disputandum.
+О принципах не спорят.$De proprio motu.
+Из собственного побуждения.$De visu.
+Воочию, глазами очевидца.$Debes, ergo potes.
+Ты должен, значит можешь.$Deceptio visus.
+Оптический обман.$Decipimur specie recti.
+Видимость совершенства обманчива.$Decipit frons prima multos.
+Внешность обманчива.$Deliberando discitur sapientia.
+Мудрости учатся размышлением.$Deliberandum est diu, quod statuendum est semel.
+Обдумывай долго, решай один раз.$Delicias habet omne suas et gaudia tempus.
+Всякое время имеет свои удовольствия и радости.$Delirium tremens.
+Белая горячка.$Delphinum natare doces.
+Учишь дельфина плавать.$Desidia est initium omnium vitiorum.
+Безделье - начало всех пороков.$Desipere in loco.
+Безумствовать там, где это уместно.$Despice divitias, si vis animo esse beatus!
+Если хочешь быть счастливым - презирай богатство!$Destruam et aedificabo.
+Разрушу и воздвигну.$Desunt inopiae multa, avaritiae omnia.
+Бедным не хватает многого, алчным - всего.$Dicere non est facere.
+Сказать - еще не значит сделать.$Dictis facta respondeant.
+Пусть дела соответствуют словам.$Dicto die.
+В назначенный день.$Dictum factum.
+Сказано - сделано.$Diligentia in omnibus rebus valet.
+Усердие необходимо во всех делах.$Dives est, qui sapiens est.
+Тот богат, кто мудр.$Divide et impera.
+Разделяй и властвуй.$Divitiae et honores incerta et caduca sunt.
+Богатство и почести неустойчивы и преходящи.$Dixi et animam levavi.
+Я сказал и тем облегчил душу.$Docendo discimus.
+Уча, учимся.$Doctrina multiplex, veritas una.
+Учений много, истина одна.$Doctus nemo nascitur.
+Ученым не рождаются.$Domus propria domus optima.
+Свой дом - лучший дом.$Donec eris felix, multos numerabis amicos.
+Пока ты удачлив, у тебя много друзей.$Dubia plus torquet mala.
+Неизвестность тревожит больше самой беды.$Dubitatio ad veritatem pervenimus.
+Путь к истине - через сомнения.$Ducunt volentem fata, nolentem trahunt.
+Желающего судьба ведет, нежелающего - тащит.$Dulce domum.
+Сладостно домой.$Dulce et decorum est pro patria mori.
+Отрадна и почетна смерть за родину.$Dulce laudari a laudato viro.
+Приятна похвала от того, кто сам ее достоин.$Dulcia non novit, qui non gustavat amara.
+Тот не знает сладкого, кто не испытал горького.$Dum spiro spero.
+Пока дышу-надеюсь.$Dum vivimus vivamus.
+Давайте жить, пока живется.$Duos qui lepores sequitur, neutrum capit.
+Кто гонится за двумя зайцами, не поймает ни одного.$Dura lex, sed lex.
+Суров закон, но это закон.$Dura necessitas.
+Жестокая необходимость.

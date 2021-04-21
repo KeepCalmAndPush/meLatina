@@ -1,0 +1,60 @@
+Calamitate doctus sum.
+Горе меня научило.$Calvitium non est vitium sed prudentiae indicium.
+Лысина не порок, а свидетельство мудрости.$Cancrum recta ingredi doces
+Учить рака ходить вперед (т.е. напрасный труд).$Capienda rebus in malis praeceps via est.
+В беде следует принимать опасные решения.$Carpe diem.
+Лови день.$Castis omnia casta.
+Чистым (людям) все кажется чистым.$Causa causarum.
+Причина причин (главная причина).$Causa finita est.
+Вопрос решен.$Cave illum semper, qui tibi imposuit semel.
+Остерегайся того, кто обманул тебя хотя бы однажды.$Cave ne cadas.
+Берегись, чтобы не упасть.$Cave tibi a cano muto et aqua silente.
+Берегись тихого пса и спокойной воды.$Cave, quid dicas, quando et cui.
+Смотри, что говоришь, когда и кому.$Cavete a falsis amicis.
+Опасайтесь фальшивых друзей.$Cedo majori.
+Уступай старшему.$Cessante causa cessat effectus.
+С устранением причины исчезает и следствие.$Cetera desiderantur.
+Об остальном остается желать.$Ceteris paribus.
+При прочих равных условиях.$Charta non erubescit.
+Бумага не краснеет.$Circulus vitiosus.
+Порочный круг.$Cogitationes posteriores saepe sunt meliores.
+Более поздние мысли часто лучше.$Cogitationis poenam nemo patitur.
+Никто не наказуем за мысли.$Cogito, ergo sum.
+Я мыслю, следовательно существую.$Cognosce te ipsum.
+Познай самого себя.$Concordia res parvae crescunt.
+Согласием возвеличиваются и малые дела.$Conditio sine qua non.
+Непременное условие.$Conscia mens recti famae mendacia ridet.
+Чистая совесть смеется над ложными слухами.$Consensu omnium.
+С общего согласия.$Consideratio naturae.
+Созерцание природы.$Consuetudinis magna vis est.
+Велика сила привычки.$Consuetudo est altera natura.
+Привычка - вторая натура.$Consultor homini tempus utilissimus.
+Время - лучший советчик.$Consummatum est!
+Свершилось!$Contra bonos mores.
+Безнравственно.$Contraria contrariis curantur.
+Противоположное лечится противоположным.$Copia ciborum subtilitas animi impeditur.
+Избыток пищи мешает тонкости ума.$Copia verborum.
+Многословие.$Corrige praetertum, praesens rege, cerne futurum.
+Анализируй прошлое, руководи настоящим, предусматривай будущее.$Corruptio optimi pessima.
+Совращение доброго - наибольший грех.$Crede experto.
+Верь опытному.$Credo quia verum.
+Верю, ибо это истина.$Credo ut intelligam.
+Верую, чтобы познать.$Credula res amor est.
+Любовь склонна к доверчивости.$Crescentem pecuniam sequitur cura.
+С богатством растут и заботы.$Crescit amor nummi, quantum ipsa pecunia crescit.
+Растет любовь к деньгам по мере того, как растет само богатство.$Crudelitatis mater avaritia est.
+Жадность - мать жестокости.$Cui prodest?
+Кому выгодно?$Cuique proprius attributus error est.
+Каждый человек имеет какой-либо недостаток.$Cuivis dolori remedium est patientia.
+Терпение - лекарство от любых страданий.$Cujus regio, ejus religio.
+Чья область, того и религия.$Culpa lata.
+Грубая ошибка.$Cum bonis bonus eris, cum malis perverteris.
+С хорошими людьми будешь хорошим, с плохими - испортишься.$Cum feriunt unum, non unum fulmina terrent.
+Молния поражает одного, а пугает многих.$Cum grano salis.
+Иронически.$Cum sancto spiritu.
+Со святым духом.$Cuneus cuneum trudit.
+Клин клином вышибают.$Cupido atque ira consultores pessimi.
+Страсть и гнев - наихудшие советчики.$Curae leves loquuntur, ingentes stupent.
+Малые печали говорят, большие - безмолвны.$Curriculum vitae.
+Жизненный путь.$Custos morum.
+Блюститель нравственности.

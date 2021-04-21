@@ -1,0 +1,136 @@
+Sacrae ruinae.
+Священные руины.$Saeculi vitia, non hominis.
+Недостатки века, а не человека.$Saeculorum novus nascitur ordo.
+Время рождает новый порядок.$Saepe est sub pallio sordido sapientia.
+Часто под грязным рубищем скрывается мудрость.$Saepe mora est melior.
+Часто промедление полезно.$Saepe summa ingenia in occulto latent.
+Часто большие таланты скрыты.$Sagitta interdum resiliens percuit dirigentem.
+Иногда отраженная стрела убивает выпустившего ее.$Salus patriae suprema lex.
+Благо отечества - высший закон.$Salus populi suprema lex.
+Благо народа - высший закон.$Salutis gratia.
+Для безопасности.$Salvavi animam meam.
+Я спас свою душу.$Salve!
+Здравствуй!$Salvo honore.
+Без вреда для чести.$Sancta sanctorum.
+Святая святых.$Sapere aude.
+Решись на мудрость.$Sapiens animus numquam tumet.
+Умный никогда не зазнается.$Sapiens bonum fert modice, fortiter malum.
+Мудрый переносит счастье сдержанно, а несчастье - мужественно.$Sapiens dominabitur astris.
+Мудрый будет властвовать над звездами.$Sapiens est mutare consilium.
+Умный не стыдится изменить свое мнение.$Sapiens ipse fingit fortunam sibi.
+Мудрый сам создает собственное счастье.$Sapiens nil affirmat, quod non probet.
+Умный ничего не утверждает без доказательств.$Sapiens semper beatus est.
+Мудрец всегда счастлив.$Sapienti sat.
+Для мудрого достаточно.$Sapientia felicitas.
+Мудрость - это счастье.$Sapientia vino obumbratur.
+Ум помрачается вином.$Satis eloquentiae, sapientiae parum.
+Красноречия достаточно, мудрости мало.$Satis superque.
+Более чем достаточно.$Satis verborum.
+Довольно слов.$Satius est sero te quam numquam discere.
+Лучше учиться поздно, чем никогда.$Satius est supervacua discere quam nihil.
+Лучше изучить лишнее, чем ничего не изучить.$Satur venter non studet libenter.
+Сытое брюхо к учению глухо.$Scientia difficilis sed fructuosa.
+Наука трудна, но плодотворна.$Scientia nihil est quam veritatis imago.
+Знание есть отражение истины.$Scientia potentia est.
+Знание - это сила.$Scientia vinces.
+Знание победит.$Scio me nihil scire.
+Я знаю, что ничего не знаю.$Scopae recentiores semper meliores.
+Новые метлы всегда лучше.$Scripta manent in saecula saeculorum.
+Написанное останется во веки веков.$Secreto amicos admone, lauda palam.
+Брани друзей наедине, а хвали публично.$Seditio civium hostium est occasio.
+Несогласие граждан удобно для врагов.$Semper avarus eget.
+Скупой всегда нуждается.$Semper fidelis.
+Всегда верный.$Semper idem.
+Всегда одно и то же.$Semper in motu.
+Вечно в движении.$Semper paratus.
+Всегда готов.$Seni desunt vires, juveni - scientiae.
+Старику не хватает сил, юноше - знаний.$Sera nunquam est ad bonos mores via.
+Никогда не поздно начать честную жизнь.$Sera parsimonia in fundo est.
+Поздно беречь, коль видно дно.$Sereno quoque coelo aliquando tonat.
+И в ясном небе бывает гром.$Sermo datur cunctis, animi sapientia paucis.
+Язык дан всем, мудрость - немногим.$Sermo est imago animi.
+Речь - образ души.$Sermone eo uti debemus, qui innatus est nobis.
+Говорить следует на том языке, который является для нас врожденным.$Sero venientibus ossa.
+Опоздавшему - кости.$Serva me, servabo te.
+Выручи меня - я выручу тебя.$Servitus est postremum malorum omnium.
+Неволя - наибольшее из всех несчастий.$Si etiam omnes, ego non.
+Даже если все, я - нет.$Si finis bonus, laudabile totum.
+При хорошем конце похвально и все дело.$Si melius quid habes, acresse vel imperium fer.
+Имеешь - поделись, не имеешь - бери, что дают.$Si quesiveris invenies.
+Ищи и обрящешь.$Si quid movendum est, move.
+Если что-либо нужно подвинуть, двигай.$Si vis amari, ama.
+Хочешь быть любимым - люби.$Si vis pacem, para pacem!
+Хочешь мира - готовь мир!$Si vis vincere, disce pati.
+Хочешь побеждать - учись терпению.$Sibi bene facit, qui bene facit amico.
+Себе делает хорошо тот, кто делает хорошо другим.$Sic et simpliciter.
+Так, и именно так.$Sic fata voluerunt.
+Так угодно судьбе.$Sic itur ad astra.
+Так идут к звездам.$Sic transit gloria mundi.
+Так проходит мирская слава.$Sic transit tempus.
+Так проходит время.$Signum temporis.
+Знамение времени.$Sile et spera.
+Молчи и надейся.$Silendo nemo peccat.
+Кто молчит, тот не грешит.$Silentium videtur confessio.
+Молчит - значит соглашается.$Simila similibus curantur.
+Подобное лечится подобным.$Similia similibus destruuntur.
+Подобное разрушается подобным.$Simplex sigillum veri.
+Простота - признак искренности.$Simul consilium cum re amisisti?
+Неужели с деньгами ты потерял рассудок?$Simulans amicum inimicus inimicissimus.
+Самый опасный враг тот, кто притворяется другом.$Sine amicitia vita nulla est.
+Без дружбы нет жизни.$Sine die.
+Без даты.$Sine doctrina vita quasi mortis imago.
+Без науки жизнь подобна смерти.$Sine ira et studio.
+Без гнева и пристрастия.$Sine labore non erit panis in ore.
+Без труда не будет хлеба во рту.$Sine metu mortis.
+Без страха смерти.$Sine mora.
+Без задержки.$Sine reservatione mentali.
+Без задней мысли.$Sint ut sunt, aut non sint.
+Пусть будут так, как есть, или пусть не будут вовсе.$Sit ut est.
+Пусть останется как есть.$Sol lucet omnibus.
+Солнце светит для всех.$Sola virtute armatus.
+Одной лишь доблестю вооруженный.$Somni, cibi, potus, venus omnia moderata sint.
+Сон, еда, питье, любовь - в меру.$Spe vivimus.
+Живем надеждой.$Species decipit.
+Внешность обманчива.$Species facti.
+Обстоятельства дела.$Sperare contra spem.
+Без надежды надеяться.$Spero meliora.
+Надеюсь на лучшее.$Spero, sic moriar, ut mortuus non erubescam.
+Надеюсь, я так умру, что мертвый не постыжусь.$Spes est ultimum adversarium rerum solatium.
+Надежда - последнее утешение в несчастье.$Spes sibi quisque.
+Каждый верит в себя.$Sponte sua, sine lege.
+Добровольно, без принуждения.$Status naturalis.
+Естественное состояние.$Status quo.
+Существующее положение.$Status rerum.
+Положение дел.$Sua cuique fortuna in manu est.
+Собственное счастье у каждого в руках.$Sua sponte.
+Сам собой, по своей воле.$Sua sunt cuique vitia.
+Каждый имеет свои недостатки.$Suae quisque fortunae faber est.
+Каждый кузнец своего счастья.$Suavis laborum est praetorium memoria.
+Приятно вспомнить о былых трудах.$Suaviter in modo, fortiter in re.
+Будь мягким в обхождении, но твердым в достижении цели.$Sub conditione.
+При условии.$Sub fide nobili.
+Под честное слово.$Sub rosa.
+Секретно.$Sub rosa dicta tacenda.
+Сказанное по секрету не подлежит разглашению.$Sub specie aeternitatis.
+С точки зрения вечности.$Sub specie utilitatis.
+С точки зрения пользы.$Sub sua propria specie.
+Под особым углом зрения.$Subdore et sanguine.
+Потом и кровью.$Sublata causa tollitur effectus.
+С устранением причины устраняется и следствие.$Sublata causa, tollitur morbus.
+С устранением причины устраняется болезнь.$Sufficit.
+Достаточно.$Sum totus vester.
+Я весь ваш.$Summa cum pietate.
+С величайшим уважением.$Summa summarum.
+В конце концов.$Summa virtus.
+Высшая доблесть.$Summam nec metuas diem, nec optes.
+Не страшись последнего дня, но и не призывай его.$Summum bonum.
+Высшее благо.$Sunt certi denique fines.
+Всему, однако, существуют границы.$Sunt delicta quibus ignovisse velimus.
+Некоторые проступки желательно не замечать.$Suo periculo.
+На свой страх и риск.$Super omnia veritas.
+Выше всего истина.$Suppressio veri.
+Сокрытие истины.$Surge et age.
+Встань и действуй.$Sustine et abstine.
+Выдержи и воздержись.$Suum cuique mos.
+У каждого свой нрав.$Suum cuique placet.
+Каждому нравится свое.

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MIDlet-1: Latina, ,LatinaMainMidlet
+MicroEdition-Configuration: CLDC-1.0
+Created-By: 1.6.0_24 (Sun Microsystems Inc.)
+MIDlet-Name: LatinaMainMidlet
+MicroEdition-Profile: MIDP-1.0
+MIDlet-Jar-Size: 51373
+MIDlet-Jar-URL: Latina.jar
+Nokia-MIDlet-Category: Game

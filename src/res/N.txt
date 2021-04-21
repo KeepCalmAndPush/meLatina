@@ -1,0 +1,107 @@
+Nascentes morimur, finisque ab origine pendet.
+Рождаясь, мы умираем, и конец обусловлен началом.$Natura abhorret vacuum.
+Природа не терпит пустоты.$Natura est semper invicta.
+Природа всегда непобедима.$Natura non facit saltus.
+Природа не делает скачков.$Naturae vis medicatrix.
+Целительная сила природы.$Naturalia non sunt turpia.
+Естественное не безобразно.$Ne accesseris in consilium nisi vocatus.
+Не ходи в совет, не будучи приглашенным.$Ne cede malis.
+Не отступай перед несчастьями.$Ne differas in crastinum.
+Не откладывай на завтра.$Ne malum alienum feceris tuum gaudium.
+Не радуйся чужому несчастью.$Ne quid nimis.
+Ничего лишнего.$Ne sit vitiosus sermo nutricibus.
+Не должно быть пороков в речи тех, кто воспитывает.$Ne varietur.
+Изменению не подлежит.$Nec plus ultra.
+Дальше некуда.$Nec sibi, nec alteri.
+Ни себе, ни другому.$Nemine contradicente.
+Единогласно.$Neminem laedere.
+Никому не вреди.$Neminem metuit innocens.
+Невиновный не боится никого.$Neminem pecunia divitem fecit.
+Деньги никому не приносят счастья.$Nemo amat, quos timet.
+Никто не любит тех, кого боится.$Nemo liber est, qui corpori servit.
+Тот невольник, кто раб своего тела.$Nemo mortalium omnibus horis sapis.
+Никто не бывает мудрым всегда.$Nemo nascitur sapiens, sed fit.
+Мудрым не рождаются, им становятся.$Nemo potest regere, nisi patiens.
+Не набраться ума без терпения.$Nemo sine vitiis est.
+Никто не лишен пороков.$Nescit vox missa reverti.
+Сказанное слово не возвращается.$Nihil agendi dies est longus.
+Долог день для ничего не делающего.$Nihil agendo male agere discimus.
+Ничего не делая, мы учимся делать плохое.$Nihil aliud curo, quam ut bene vivam.
+Ни о чем так не забочусь, как прожить достойно.$Nihil est difficile volenti.
+Ничто не трудно для желающего.$Nihil est in religione, quod non fuerit in vita.
+Нет ничего в религии, чего не было бы в жизни.$Nihil est incertus vulgo.
+Нет ничего более непостоянного, чем толпа.$Nihil est jucundius lectulo domestico.
+Нет ничего милее домашнего очага.$Nihil est pejus amico falso.
+Ничего нет хуже ложного друга.$Nihil habeo, nihil curo.
+Ничего не имею - ни о чем не забочусь.$Nil actum credens, dum quid superesset agendum.
+Если осталось еще что-либо доделать, считай, что ничего не сделано.$Nil de nihilo fit.
+Ничто не возникает из ничего.$Nil desperandum.
+Никогда не отчаивайся.$Nil mortalibus arduum est.
+Нет ничего недосягаемого.$Nil nisi bene.
+Ничего, кроме хорошего.$Nil permanet sub sole.
+Ничто не вечно под солнцем.$Nil sine magno vita labore dedit mortalibus.
+Жизнь ничего не дает без упорного труда.$Nil volenti difficile est.
+При желании все преодолимо.$Nimium altercando veritas amittitur.
+В чрезмерном споре теряется истина.$Nimium ne crede colori.
+Не слишком полагайся на внешний вид.$Nisi utile est quod facimus stulta est gloria.
+Неразумно рвение, если бесполезно то, что мы делаем.$Nolens volens.
+Волей-неволей.$Noli nocere.
+Не навреди.$Nomen est omen.
+Имя говорит само за себя.$Nomina sunt odiosa.
+Об именах лучше умолчать.$Nomine et re.
+На словах и на деле.$Non aliter vives in solitudine, aliter in foro.
+Будь одинаков и наедине, и на людях.$Non annumerare verba sed appendere.
+Слова следует не считать, а взвешивать.$Non bene pro toto libertas venditur auro.
+Позорно продавать свободу за золото.$Non bis in idem.
+Не дважды за одно и то же.$Non compos mentis.
+Не в здравом уме.$Non de ponte cadit, qui cum sapientia vadit.
+Не падает с моста тот, кто умно ходит.$Non esse cupidum pecunia est, non esse emacem vectigal est.
+Не быть жадным - уже богатство, не быть расточительным - доход.$Non est culpa vini, sed culpa bibentis.
+Виновато не вино, а пьющие.$Non est fumus absque igne.
+Нет дыма без огня.$Non foliis, sed fructu arborem aestima.
+Оценивай дерево по плоду, а не по листьям.$Non genus virum ornat, generi vir fortis loco.
+Не происхождение украшает человека, а человек происхождение.$Non habet eventus sordida praeda bonos.
+Нечестно приобретенное теряется попусту.$Non in loco ridere pergrave est malum.
+Смеяться не вовремя - очень большой порок.$Non in omnes omnia conveniunt.
+Не все подходит всем.$Non multum, sed multa.
+Не много, но многое.$Non numeranda, sed ponderanda argumenta.
+Ценно не количество, а качество доказательств.$Non omne est aurum, quod splendet.
+Не все золото, что блестит.$Non omne quod licet honestum est.
+Не все дозволенное достойно уважения.$Non omnia possumus omnes.
+Не все мы на все способны.$Non omnis error stultitia est dicenda.
+Не каждую ошибку следует называть глупостью.$Non omnis moriar.
+Не весь я умру.$Non progredi est regredi.
+Не продвигаться - значит отступать.$Non qui parum habet, sed qui plus cupit, pauper est.
+Бедняк не тот, кто меньше имеет, а тот, кто большего хочет.$Non rebus me, sed mihi submittere conor.
+Подчиняй вещи себе, а не себя вещам.$Non scholae, vitae discimus.
+Мы учимся не для школы, но для жизни.$Non semper errar fama.
+Не всегда ошибается молва.$Non sum qualis eram.
+Уж не тот я, каким был.$Non tutae sunt cum regibus facetiae.
+Шутки с царями небезопасны.$Non verbis sed actis.
+Не на словах, а на деле.$Non, si male nunc, et olim erit.
+Если плохо сейчас - не всегда же так будет.$Nondum adesse fatalem horam.
+Еще не наступило роковое время.$Noscitur a sociis.
+Узнаешь человека по его товарищам.$Nota bene.
+Обрати внимание.$Novarum rerum cupidus.
+Страстно жаждущий нового.$Novos amicos dum paras, veteres cole.
+Новых друзей приобретай, а старых не забывай.$Novus rex.nova lex.
+Новый царь, новый закон.$Nox cogitationum mater.
+Ночь - мать мыслей.$Nox fert consilium.
+Ночь приносит совет.$Nudis verbis.
+Голословно.$Nulla aetas ad discendum sera.
+Учиться никогда не поздно.$Nulla dies sine linia.
+Ни дня без строчки.$Nulla fere causa est, in qua non femina litem moverit.
+Нет такого дела, в котором не затеяла бы спор женщина.$Nulla regula sine exceptione, sed exceptio non impedit regulam.
+Нет правила без исключения, но исключение не мешает правилу.$Nulla tempestas magna perdurat.
+Большая буря не бывает продолжительной.$Nullis amor est sanabilis herbis.
+Нет лекарства от любви.$Nullum malum sine aliquo bono.
+Нет худа без добра.$Nullum periculum sine periculo vincitur.
+Никакая опасность не преодолевается без риска.$Nullum verum infert falsum.
+Никакая истина не ведет ко лжи.$Nullus est liber tam malus, ut non aliqua parte prosit.
+Нет такой плохой книги, которая была бы совершенно бесполезной.$Nummis praestat carere quam amicis.
+Лучше быть без денег, чем без друзей.$Nunc aut nunquam.
+Теперь или никогда.$Nunc et in saecula.
+Ныне и навеки.$Nusquam est qui ubique est.
+Кто везде, тот нигде.$Nusquam nec malum malo, nec vulnus curatur vulnere.
+Зло не лечат злом, а рану раной.$Nutritur vento, vento restinguitur ignis.
+Огонь ветром поддерживается, от ветра и гаснет.

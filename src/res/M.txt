@@ -1,0 +1,68 @@
+Macte animo!
+Мужайся!$Magister bibendi.
+Мастер по части выпивки.$Magna est veritas et praevalebit.
+Велика истина, и она восторжествует.$Magni sunt, humanes tamen.
+Великие, но люди.$Magnum ignotum.
+Великое неведомое.$Mala fide.
+Неискренне, нечестно.$Mala herba cito crescit.
+Сорная трава растет быстро.$Male facere qui vult, nunquam non causam invenit.
+Желающий навредить всегда найдет причину.$Malesuada fames.
+Голод - дурной советник.$Mali principii malus finis.
+Плохому началу и плохой конец.$Malitia supplet aetatem.
+Каждый век имеет свои пороки.$Malo cum Platone errare, quam cum aliis recte sentire.
+Лучше ошибаться с Платоном, чем быть правым с другими.$Malum consilium consultori pessimum est.
+Дурной умысел оборачивается против того, кто его замыслил.$Malum est consilium, quod mutari non potest.
+Плохо то решение, которое нельзя изменить.$Manet omnes una nox.
+Всех нас ждет одна и та же ночь.$Mania grandiosa.
+Мания величия.$Manifestum non eget probatione.
+Очевидное не нуждается в доказательстве.$Manu intrepida.
+Недрогнувшей рукой.$Manu propria.
+Собственной рукой.$Manus manum lavat.
+Рука руку моет.$Mare verborum gutta rerum.
+Море слов - капля дел.$Materia tractanda.
+Предмет обсуждения.$Maxima egestas avaritia.
+Скупость - наибольшая бедность.$Maximis minimisque corporibus par est dolor vulneris.
+Боль от раны одинакова и для больших, и для маленьких тел.$Maximum remedium irae mora sunt.
+Лучшее лекарство от гнева - время.$Me judice.
+По моему суждению.$Mea culpa.
+Моя вина.$Mea memoria.
+На моей памяти.$Mea mihi conscientia plures est quam omnium sermo.
+Моя совесть важнее мне, чем все пересуды.$Medice, cura te ipsum.
+Врач, исцелись сам.$Medicus curat, natura sanat.
+Врач лечит-природа исцеляет.$Medio flumine quaerere aquam.
+Просить воды находясь в реке.$Melioribus annis.
+В лучшие времена.$Melius est nomen bonum, quam magnae divitiae.
+Лучше честное имя, чем большое богатство.$Melius est prudenter tacere, quam inaniter loqui.
+Разумнее смолчать, чем сказать глупость.$Melius est puero flere, quam senes.
+Лучше плакать в детстве, чем в старости.$Melius non incipient, quam desinent.
+Лучше не начинать, чем останавливаться на полпути.$Memento mori.
+Помни о смерти!$Memento patriam.
+Помни о родине.$Memoria est exercenda.
+Память нужно тренировать.$Mendaci homini ne vera quidem dicenti credimus.
+Лжецу не верят даже тогда, когда он говорит правду.$Mendax in uno, mendax in omnibus.
+Единожды солгавший, всегда лжет.$Mens sana in corpore sano.
+В здоровом теле здоровый дух.$Mens vertitur cum fortuna.
+Образ мыслей меняется с изменением положения.$Meo voto.
+По моему мнению.$Mihi desunt verba.
+У меня нет слов.$Miles gloriosus.
+Хвастливый воин.$Minima de malis.
+Из двух зол меньшее (выбирать).$Minus habeo, quam speravi, sed fortasse plus speravi, quam debui.
+Я получил меньше, чем ожидал, но, возможно, я больше ожидал, чем следовало.$Mixtura verborum.
+Словесная мешанина.$Modus cogitandi.
+Образ мышления.$Modus dicendi.
+Манера выражаться.$Modus operandi.
+Способ действия.$Modus vivendi.
+Образ жизни.$Mollit viros otium.
+Безделье делает людей слабыми.$Montes auri pollicens.
+Обещать золотые горы.$Mores cuique sui fingunt fortunam.
+Наша судьба зависит от наших нравов.$Mors immortalis.
+Бессмертная смерть.$Multi multa sciunt, nemo omnia.
+Многие знают многое, но никто не знает всего.$Multi sunt vocati, pauci vero electi.
+Много званых, но мало избранных.$Multos timere debet, quem multi timent.
+Многих должен бояться тот, кого многие боятся.$Multum legendum est, non multa.
+Читать следует не все, но лучшее.$Multum sibi adicit virtus lacessita.
+Добродетель возрастает, если ее подвергают испытаниям.$Multum vinum bibere, non diu vivere.
+Много пить вина, недолго жить.$Mundus hic est quam optimus.
+Этот мир самый лучший.$Mutantur tempora et nos mutamur in illis.
+Меняются времена, и мы меняемся с ними.$Mutatis mutandis.
+С оговорками; изменив то, что надо изменить.

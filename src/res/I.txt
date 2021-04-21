@@ -1,0 +1,85 @@
+Ibi bene, ubi patria.
+Там хорошо, где отечество.$Ibi semper victoria, ubi concordia est.
+Там победа, где согласие.$Ibidem (сокращ. ibid.).
+Там же.$Id est (сокращ. i.e.).
+То есть.$Idea fixa.
+Навязчивая идея.$Idem (сокращ. id.).
+То же самое.$Ignavia est jacere, dum possis surgere.
+Малодушие - лежать, если можешь подняться.$Ignoranti, quem portum petat, nullus ventus secundus est.
+Нет попутного ветра для того, кто не знает, к какому порту причалить.$Ignorantia non est argumentum.
+Невежество - не аргумент.$Ignoscas aliis multa, nihil tibi.
+Другим прощай многое, себе - ничего.$Ignoscito saepe alteri, nunquam tibi.
+Другим прощай, себе - никогда.$Ille dolet vere, qui sine teste dolet.
+Истинно скорбит тот, кто скорбит без свидетелей.$Impavide progrediamur.
+Пойдем вперед без колебаний.$Impedit ira animum, ne possit cernere verum.
+Гнев не позволяет разуму познать правду.$Imperare sibi maximum imperium est.
+Повелевать собою - величайшая власть.$Imperat aut servit collecta pecunia cuique.
+Для одних богатство - слуга, для других - господин.$Imprimatur.
+Пусть печатается.$In aeternum.
+Навек, навсегда.$In bonam partem.
+В хорошем смысле.$In commune bonum.
+Для общего блага.$In compacto.
+В сжатом виде; вкратце.$In corpore.
+В полном составе.$In divitiis inopes, quod genus egestatis gravissimum est.
+Нужда в богатстве - самый тяжкий вид нищеты.$In futuro.
+В будущем.$In imo pectore.
+В глубине души.$In indefinitum.
+На неопределенный срок.$In integrum.
+В первоначальном виде.$In legibus salus.
+В законе спасение.$In magnis et voluisse sat est.
+В великих делах достаточно и одного желания.$In medias res.
+В самую суть.$In minimis maximus.
+В мелочах велик.$In omnem eventum.
+На всякий случай.$In omnia paratus.
+Готов ко всему.$In optima forma.
+В лучшем виде.$In pace leones, in proelio cervi.
+В мирное время - львы, в сражении - олени.$In patria natus non est propheta vocatus.
+Нет пророка в своем отечестве.$In perpetuum.
+На вечные времена.$In persona.
+Персонально.$In pleno.
+В полном составе.$In praesenti.
+В настоящее время.$In praxi.
+На практике.$In propria persona.
+Собственной персоной.$In recto virtus.
+В правде добродетель.$In saecula saeculorum.
+Во веки веков.$In spe.
+В надежде.$In tempore opportuno.
+В удобное время.$In vas pertusum congerere.
+Дырявого кувшина не наполнишь.$In vino veritas.
+Истина в вине.$Incertus animus dimidium sapientiae est.
+Сомнение - половина мудрости.$Incipit vita nova.
+Начинается новая жизнь.$Incognito.
+Тайно.$Indigne vivit, per quem non vivit alter.
+Недостойно живет тот, кто не дает жить другим.$Industriae nil impossibile.
+Для старательного нет ничего невозможного.$Ingrato homine terra pejus nihil creat.
+Ничего худшего, чем неблагодарный человек, земля не рождает.$Iniqua nunquam imperia retinentur diu.
+Несправедливая власть недолговечна.$Iniquissimam pacem justissimo bello anteferro.
+Самый несправедливый мир предпочтительнее самой справедливой войны.$Iniquum est quemque ex veste aestimare.
+Несправедливо оценивать кого-либо по одежде.$Injuria realis.
+Оскорбление действием.$Injuria solvit amorem.
+Обида разрушает любовь.$Injuria verbalis.
+Оскорбление словом.$Injuriarum nemo obliviscitur, beneficiorum autem multi.
+Об обидах не забывает никто, о благодеяниях же - многие.$Injuriarum remedium est oblivio.
+Забвение - лекарство от несправедливостей.$Innocens credit omni verbo.
+Простодушный верит любому слову.$Insanus omnis furere credit.
+Сумасшедший считает, что все остальные - безумцы.$Insperata accidit magis saepe quam qua speres.
+Неожиданное случается чаще ожидаемого.$Instantia crucis.
+Решающее испытание.$Instantia est mater doctrinae.
+Упорство - мать науки.$Intelligenti pauca.
+Для понимающего достаточно и немногого.$Intempestivq qui docet, ille nocet.
+Несвоевременные поучения вредят.$Inter alia (сокращ. int.al.).
+Между прочим.$Inter bonos bene.
+Между хорошими - все по-хорошему.$Inter nos.
+Между нами.$Inter pares amicitia.
+Дружба между равными.$Inter se.
+Между собой.$Inter vepres rosae nascuntur.
+И среди терновника растут розы.$Inutilis quaestio solvitur silentio.
+Неуместный вопрос освобождается от ответа.$Invidia festos dies non agit.
+Зависть праздников не соблюдает.$Ipsae res verba rapiunt.
+Дело говорит само за себя.$Ipse fecit.
+Сделал собственноручно.$Ipsissima verba.
+Слово в слово.$Ira furor brevis est.
+Гнев - это кратковременное помешательство.$Ira odium gignit, concordia nutrit amorem.
+Гнев порождает ненависть, согласие вскармливает любовь.$Irreparabilium felix oblivio rerum!
+Счастлив не сожалеющий о прошедшем!$Ite, missa est.
+Идите, все кончено.

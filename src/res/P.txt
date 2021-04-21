@@ -1,0 +1,101 @@
+Pabulum animi.
+Пища души.$Pacta sunt servanda.
+Договоры должны соблюдаться.$Par praemium labori.
+Соответственно труду и вознограждение.$Parcus discordat avaro.
+Бережливый - не значит скупой.$Pars pro toto.
+Часть вместо целого.$Pars sanitatis velle sanari fuit.
+Желание выздороветь - часть выздоровления.$Parva domus, magna quies.
+Малое жилище - великий покой.$Parva domus, parva cura.
+Малое хозяйство - малая забота.$Parva leves capiunt animos.
+Мелочи прельщают легкомысленных.$Parva saepe scintilla contempta magnum excitat incendium.
+Часто маленькая искра вызывает большой пожар.$Patientia patitur omnia.
+Терпение все побеждает.$Patriae fumus igne alieno luculentior.
+Дым отечества ярче огня чужбины.$Pauca sed bona.
+Мало, но хорошо.$Paucis verbis.
+В немногих словах.$Paulatim summa petuntur.
+Не сразу достигаются вершины.$Paupertas non est probrum.
+Бедность не порок.$Pax optima rerum.
+Самое ценное - мир.$Pax tecum.
+Мир с тобой.$Pax vobiscum.
+Мир с вами.$Pecunia est ancilla, si scis uti;si nescis, domina.
+Умеешь пользоваться деньгами - они служат тебе, а если нет - ты им.$Pedibus timor addit alas.
+Страх придает ногам силы.$Pelle sub agnina latitat mens saepe lupina.
+Под шкурой ягненка часто скрывается нрав волка.$Per aspera ad astra.
+Через тернии - к звездам.$Per crucem ad lucem.
+Через страдания к свету.$Per exclusionem.
+В виде исключения.$Per expressum.
+Дословно; буквально.$Per fas et nefas.
+Правдами и неправдами.$Per procura.
+По доверенности.$Per risum multum cognoscimus stultum.
+По частому смеху узнаем глупца.$Per secreta vota.
+Закрытым голосованием.$Per tacitum consensum.
+По молчаливому согласию.$Per usum.
+На практике.$Perfer et obdura.
+Терпи и крепись.$Perfice te!
+Совершенствуй себя!$Periculum est in mora.
+Опасность в промедлении.$Perigrinatio est vita.
+Жизнь - это странствие.$Perpetuum mobile.
+Вечный двигатель.$Persona grata.
+Желательная особа.$Persona ingrata.
+Нежелательная особа.$Persona sacrosancta.
+Священная особа.$Persona suspecta.
+Подозрительная личность.$Pia desideria.
+Благие пожелания.$Pia fraus.
+Благочестивая ложь.$Pigritia mater vitiorum.
+Праздность - мать пороков.$Plerique ubi aliis maledicunt, faciunt convicium sibi.
+Злословя, люди чернят самих себя.$Plures crapula quam gladius.
+Пьянство губит сильнее меча.$Pluris est ocultus testis unus, quam auriti decem.
+Лучше один раз увидеть, чем десять раз услышать.$Plus exempla quam peccata nocent.
+Плохие примеры хуже ошибок.$Plus sonat, quam valet.
+Больше звона, чем смысла.$Plus stricto mendax offendit lingua mucrone.
+Язык лгуна сильнее обнаженного меча.$Plusve minusve.
+Более-менее.$Pompa mortis magis terret quam mors ipsa.
+Больше самой смерти устрашает то, что ее сопровождает.$Possum falli ut homo.
+Как человек я могу ошибаться.$Post factum.
+После совершившегося (факта).$Post hoc, non est propter hoc.
+После этого не значит, что вследствие этого.$Post hominum memoriam.
+С незапамятных времен.$Post mortem medicina.
+После смерти медицина.$Post nubila sol.
+После туч - солнце.$Post scriptum.
+Постскриптум, приписка к письму.$Post tenebras lux.
+После мрака свет.$Postumus.
+Самый последний.$Potior visa est periculosa libertas quieto servitio.
+Свобода в опасности лучше рабства в покое.$Potius sere, quam numquam.
+Лучше поздно, чем никогда.$Praemonitus praemunitus.
+Кто предупрежден, тот вооружен.$Praesentia minuit famam.
+Присутствие уменьшает славу.$Praestat aliquid superesse quam deesse.
+Лучше пусть останется, чем не хватит.$Praestat cum dignitate cadere quam cum ignominia vivere.
+Лучше погибнуть с честью, чем жить в бесчестьи.$Praeterita mutare non possumus.
+Мы не можем изменить прошлого.$Praeterita omittamus.
+Давайте не будем говорить о прошлом.$Praevenire melius est, quam praeveniri.
+Лучше опередить, чем опередят тебя.$Presente medico nihil nocet.
+В присутствии врача ничего не вредно.$Prima facie.
+На первый взгляд.$Primum discere, deinde docere.
+Сначала учиться, потом учить.$Primum non nocere.
+Прежде всего - не вредить.$Primum vivere.
+Прежде всего - жить.$Primus clamor atque impetus rem decernit.
+Первый натиск и первые крики решают дело.$Primus inter pares.
+Первый среди равных.$Principes mortales, respublica aeterna.
+Правители смертны, государство вечно.$Principium contradictionis.
+Закон противоречия.$Principium dimidium totius.
+Начало - половина всего.$Prius quam exaudis, ne judices.
+Не суди, не выслушав.$Prius quam incipias, consulto opus est.
+Прежде чем начать, обдумай.$Privata publicis postpone!
+Предпочитай общественное личному!$Privatim.
+Частным образом.$Pro bono publico.
+Для общей пользы.$Pro domo sua.
+В своих интересах.$Pro et contra.
+За и против.$Pro forma.
+Ради формы.$Pro mundi beneficio.
+На благо мира.$Pro patria et libertate.
+За отечество и свободу.$Pro re nata.
+Согласно обстоятельствам.$Pro tanto.
+Пропорционально.$Pro tempore.
+Вовремя; своевременно.$Probatum est.
+Одобрено.$Proceras deicit arbores procella vehemens.
+Сильная буря валит даже высокие деревья.$Procul dubio.
+Без сомнения.$Procul ex oculis, procul ex mente.
+С глаз долой - из головы вон.$Procul negotiis.
+Вдали от суеты.$Pulsate et aperietur vobis.
+Стучите, и вам откроют.$Punctum quaestionis.
+Суть вопроса.

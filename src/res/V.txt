@@ -1,0 +1,94 @@
+Vacua vasa plurimum sonant.
+Пустая посуда громко звенит.$Vacuum horrendum.
+Наводящая ужас пустота.$Vae soli.
+Горе одинокому.$Vae victis.
+Горе побежденным.$Vae victoribus.
+Горе победителям.$Vale et me ama.
+Прощай и люби меня.$Vale et memor sis mei.
+Прощай и помни обо мне.$Vale!
+Прощай!$Valeant curae!
+Прощайте, заботы!$Valetudo bonum optimum.
+Здоровье - наибольшее из благ.$Vana est sapientia nostra.
+Бесполезна наша мудрость.$Vanitas vanitatum.
+Суета сует.$Variatio delectat.
+Разнообразие радует.$Varium et mutabile semper femina.
+Женщина всегда изменчива и непостоянна.$Vaticinia post eventum.
+Предсказание задним числом.$Vel sapientissimus errare potest.
+И самый мудрый может ошибаться.$Velle non discitur.
+Нельзя научиться хотеть.$Velox consilium sequitur poenitentia.
+За поспешным решением следует раскаяние.$Veni, vidi, vici.
+Пришел, увидел, победил.$Venienti occurrite morbo.
+Торопитесь лечить болезнь вовремя.$Ventis loqueris.
+Говоришь напрасно.$Ver hiemem sequitur, sequitur post triste serenum.
+После зимы - весна, после печали - радость.$Vera ornamenta matronarum pudicitia, non vestes.
+Лучшее украшение женщины не одежда, а скромность.$Verba veritatis.
+Прямое, откровенное мнение.$Verba volant, scripta manent.
+Слова летучи, письмена живучи.$Verbatim.
+Слово в слово.$Verbatim et litteratim.
+Дословно и буквально.$Verbi gratia.
+Например.$Verbo in verbum.
+Слово за словом.$Verbum nobile.
+Честное слово.$Vere scire est per causas scire.
+Подлинное знание - в познании причины.$Veritas in medio est.
+Истина находится посредине.$Veritas nimis saepe laborat, exstinguitur numquam.
+Истина часто бывает безпомощной, не никогда не гибнет.$Veritas odium parit, obsequium amicos.
+Откровенность создает врагов, а лесть - друзей.$Veritas simplex oratio est.
+Правдивая речь проста.$Veritas una, error multiplex.
+Истина едина - заблуждение многообразно.$Veritas veritatum.
+Истина из истин.$Veritas vincit.
+Истина побеждает.$Veritatem dies aperit.
+Время обнаруживает правду.$Veritatis simplex oratio.
+Речь истины проста.$Verum amicum pecunia non parabis.
+Настоящего друга не приобретешь за деньги.$Verum plus uno esse non potest.
+Больше одной истины быть не может.$Vestigia semper adora.
+Всегда благоговей перед следами прошлого.$Vetus amor non sentit rubiginem.
+Старая любовь не ржавеет.$Via lactea.
+Млечный путь.$Via sacra.
+Святой путь.$Via trita via tuta.
+Проторенный путь безопасен.$Vice versa.
+Наоборот.$Vicinus bonus ingens bonum.
+Хороший сосед - большое благо.$Videas, quid agas.
+Думай о том, что делаешь.$Videte et applaudite!
+Смотрите и рукоплещите!$Vile est quod licet.
+Мало ценится то, что легко доступно.$Vincere aut mori.
+Победить или умереть.$Vincula da linguae vel tibi vincla dabit.
+Свяжи язык, иначе он тебя свяжет.$Vinculum matrimonii.
+Узы брака.$Vinum locutum est.
+Говорило вино.$Viribus unitis.
+Соединенными силами.$Viribus unitis res parvae crescunt.
+С объединением усилий растут и малые дела.$Virtus actuosa.
+Добродетель деятельна.$Virtus nihil expetit praemii.
+Доблесть не ищет наград.$Virtus nobilitat.
+Честность облагораживает.$Virtus post nummos.
+Добродетель после денег.$Virtus sola homines beatos reddit.
+Только честность делает людей счастливыми.$Vis impotentiae.
+Сила бессилия.$Vis inertiae.
+Сила инерции.$Vis medicatrix naturae.
+Целительная сила природы.$Vis vi repellitur.
+Насилие отражается силой.$Vis vitalis.
+Жизненная сила.$Vita brevis, ars longa.
+Жизнь коротка, искусство вечно.$Vita contemplativa.
+Созерцательная жизнь.$Vita sine libertate nihil.
+Без свободы нет жизни.$Vita sine litteris mors est.
+Жизнь без книги мертва.$Vita somnium breve.
+Жизнь - это краткий сон.$Vitae, non scholae discimus.
+Для жизни, не для школы учимся.$Vitam extendere factis.
+Продлить жизнь делами.$Vitam impendere vero.
+Посвяти жизнь истине.$Vitiis sine nemo nascitur.
+Никто не рождается без пороков.$Vive ut vivas.
+Живи, чтобы жить.$Vive valeque.
+Живи и здравствуй.$Vivere est cogitare.
+Жить - значит мыслить.$Vivere in diem.
+Жить одним днем.$Vivit post funera virtus.
+Добродетель переживет смерть.$Volens nolens.
+Волей-неволей.$Volo, non valeo.
+Хочу, но не могу.$Voluntas est superior intellectu.
+Воля стоит над мышлением.$Voluntas, e difficili data dulcissima est.
+Удовлетворение, добытое с трудом, - самое приятное.$Voluntatem potius quam verba considerari oportet.
+Следует больше обращать внимания на намерения, чем на слова.$Votum separatum.
+Особое мнение.$Vox clamantis in deserto.
+Глас вопиющего в пустыне.$Vox unius, vox nullius.
+Один голос - ни одного голоса.$Vox, vox, praeterea nihil.
+Слова, слова и ничего больше.$Vulpes pilum mutat, non mores.
+Лиса меняет шерсть, но не нрав.$Vultus est index animi.
+Лицо - зеркало души.
